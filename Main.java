@@ -12,19 +12,7 @@ public class Main
   }
 } 
 
-
-/* Delete this line to uncomment code **************************
-  public static void main(String[] args)
-
-  inDog.setBreed(breed);
-    indog.setName(name);
-    inDog.setColor(color);
-    indog.setSize(size);
-
-
   {
-    // Uncomment and complete the code below to test your Plane class
-    
     Scanner sc = new Scanner(System.in);
     String input = "";
     Plane p = new Plane(1000);
@@ -61,5 +49,5 @@ public class Main
     }
    
   }
-   Delete this line to uncomment ************************************/
+
 
